@@ -1,0 +1,39 @@
+<body class="fixed w-full overflow-x-hidden overflow-y-auto">
+    <div class="w-full h-screen relative z-10" style="background-image: url('./../../assets/bg.jpg')">
+        <div class="absolute right-8 top-9 w-64">
+            <img src="./../../assets/Accenture Logo.svg" class="w-48" alt="">
+        </div>
+        <div class="flex justify-center items-center flex-col w-full h-full">
+            <img class="w-1/2 mb-12" src="assets/Text.svg" alt="">
+            <!-- <input #name class="w-96 h-16 pl-6 mb-8 rounded-lg" type="text" placeholder="Please Enter Your Mail ID"> -->
+            <button href="page1.html"
+                class=" bottom-40 w-56 outline outline-offset-2 outline-white outline-2 focus:ring-4 bg-white h-[5rem] rounded-lg mt-7 font-bold text-[2.5rem] text-[#4E0167] transform active:scale-90 transition-transform font-[/]"
+                routerLink="/question" (click)="startQuiz()">Start
+                Quiz
+            </button>
+
+        </div>
+    </div>
+</body>
+
+
+
+
+
+<!-- <div class="container bg-light py-5"> 
+     <h1 class="display-5 fw-bold">Welocme to Quiz </h1> 
+      <p class="col-md-8 fs-4">This quiz will contains total 10 questions. Each Question holds 10 Points</p>  
+     <h4>Rules:</h4> 
+     <ol>
+        <li>Correct Question gives you 10 points</li>
+        <li>Incorrect question gives to -10 points</li>
+        <li>You will have 60 sec to answer each question</li>
+        <li>Refereshing the page will reset the Quiz</li>
+    </ol> 
+    <h1 style="font-family: cursive;text-align:center">All the best!!</h1>
+    <div class="name col-md-4 my-3">
+        <label for="">Enter your Email:</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Start the Quiz!!</button>
+</div>-->

@@ -1,0 +1,189 @@
+{
+    "questions": [{
+            "questionText": " 1. When a manager appreciates strong communication skills of a team member and then begins to view the employee as being highly competent in all areas, even if there is no evidence to support the belief.  This is an example of: ",
+            "options": [{
+                    "text": "Halo effect  ",
+                    "correct": true
+                },
+                {
+                    "text": " Stereotype"
+                },
+                {
+                    "text": "Microadvantage"
+                },
+                {
+                    "text": "Positive Discrimination"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "2.The percentage of information processed unconsciously by the human brain through experienced-based rules is: ",
+            "options": [{
+                    "text": "Less than 10% "
+                },
+                {
+                    "text": "Less than 50%  "
+                },
+                {
+                    "text": "More than 90%  "
+                },
+                {
+                    "text": "More than 99%  ",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "3.Not offering a client facing role to a new father because these would demand late evening conversations with the client, without checking interest of the individual concerned. This is an example of: ",
+            "options": [{
+                    "text": "Benevolence Bias",
+                    "correct": true
+                },
+                {
+                    "text": "Confirmation Bias."
+                   
+                },
+                {
+                    "text": "Anchoring Bias"
+                },
+                {
+                    "text": "Implicit Bias"
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "4.The tendency to rely heavily on the first piece of information encountered when making subsequent judgments or estimates",
+            "options": [{
+                    "text": "Anchoring Bias",
+                    "correct": true
+                },
+                {
+                    "text": "Fundamental Attribution Error"
+                   
+                },
+                {
+                    "text": "Implicit Bias"
+                },
+                {
+                    "text": "Benevolence Bias"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "5.Subjecting certain individuals to heightened scrutiny or questioning their qualifications or abilities more rigorously compared to others. ",
+            "options": [{
+                    "text": "Microinequity",
+                    "correct": true
+                },
+                {
+                    "text": "Microadvantage"
+                },
+                {
+                    "text": " Halo Effect"
+                },
+                {
+                    "text": "subscribe"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "6. person telling their colleague that they don't even “look” gay. This is an example of: ",
+            "options": [{
+                    "text": "Microaggression",
+                    "correct": true
+                },
+                {
+                    "text": "Tokenization"
+                },
+                {
+                    "text": "Marginalization"
+                },
+                {
+                    "text": "None"
+                   
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "7.Biases are primarily formed through:",
+            "options": [{
+                    "text": "Genetics and Inherited Traits"
+                },
+                {
+                    "text": "Cultural Upbringing and socialization",
+                    "correct": true
+                },
+                {
+                    "text": "Educational Background"
+                },
+                {
+                    "text": "Personal Experiences and individual choices"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "8.What is the purpose of Unconscious Bias Training",
+            "options": [{
+                    "text": "Elimination of Bias"
+                   
+                },
+                {
+                    "text": "Recognition of Bias",
+                    "correct": true
+                },
+                {
+                    "text": "Both A and B"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "9._________________ occurs when individuals with disabilities are used as symbols of diversity or inclusion without genuine opportunities for meaningful participation or representation.",
+            "options": [{
+                    "text": "Tokenization",
+                    "correct": true
+                },
+                {
+                    "text": " Inclusion"
+                },
+                {
+                    "text": "Positive Bias"
+                },
+                {
+                    "text": "None Of The Above"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        },
+        {
+            "questionText": "10.Unconscious biases are always negative or harmful ",
+            "options": [{
+                    "text": "True"
+                    
+                },
+                {
+                    "text": "False",
+                    "correct": true
+                },
+                {
+                    "text": "Yamuna Rathod"
+                },
+                {
+                    "text": "Rudresh H"
+                   
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        }
+    ]
+}
