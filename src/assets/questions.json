@@ -55,7 +55,7 @@
             "explanation": "interfaces are typically used to list the properties and methods for an object"
         },
         {
-            "questionText": "4.The tendency to rely heavily on the first piece of information encountered when making subsequent judgments or estimates",
+            "questionText": "4.The tendency to rely heavily on the first piece of information encountered when making subsequent judgments or estimates.",
             "options": [{
                     "text": "Anchoring Bias",
                     "correct": true
@@ -86,13 +86,13 @@
                     "text": " Halo Effect"
                 },
                 {
-                    "text": "subscribe"
+                    "text": "Subscribe"
                 }
             ],
             "explanation": "a constructor is used by a class to take in parameters"
         },
         {
-            "questionText": "6. person telling their colleague that they don't even “look” gay. This is an example of: ",
+            "questionText": "6.Person telling their colleague that they don't even “look” gay. This is an example of: ",
             "options": [{
                     "text": "Microaggression",
                     "correct": true
@@ -129,7 +129,7 @@
             "explanation": "the export keyword allows for the information to be transmitted between files"
         },
         {
-            "questionText": "8.What is the purpose of Unconscious Bias Training",
+            "questionText": "8.What is the purpose of Unconscious Bias Training?",
             "options": [{
                     "text": "Elimination of Bias"
                    
@@ -166,7 +166,7 @@
             "explanation": "this.propertyName is the way to access a specific property within a class"
         },
         {
-            "questionText": "10.Unconscious biases are always negative or harmful ",
+            "questionText": "10.Unconscious biases are always negative or harmful. ",
             "options": [{
                     "text": "True"
                     
@@ -174,14 +174,8 @@
                 {
                     "text": "False",
                     "correct": true
-                },
-                {
-                    "text": "Yamuna Rathod"
-                },
-                {
-                    "text": "Rudresh H"
-                   
                 }
+                
             ],
             "explanation": "async is not used as an access modifier type in TypeScript"
         }

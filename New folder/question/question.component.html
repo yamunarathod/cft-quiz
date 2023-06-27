@@ -42,10 +42,6 @@
                     <h3 class="text-[30px] text-left font-medium text-white">
                         {{questionList[currentQuestion]?.questionText}}
                     </h3>
-                    <!-- <div 
-                        *ngIf="currentQuestion === questionList.length - 1 && questionList[currentQuestion]?.options.length === 2">
-                         Display the two options here 
-                    </div>-->
                 </div>
             </div>
 
@@ -76,7 +72,7 @@
                         Congratulations! <br><br> <span>BIAS
                             BUSTER</span><br> <br>
                         <h2>YOU SCORED: {{points}} Points </h2><br>
-                        <img src="./../../assets/Asset 11.png" class="absolute left-[35%]" width="350px" alt="">
+                        <img src="./../../assets/Asset 11.png" class="absolute left-[40%]" width="350px" alt="">
                     </h1>
 
                     <h1 class="text-[4rem] font-bold text-white text-center" *ngIf="points >=5 && points <=7">
@@ -108,6 +104,7 @@
             class=" bottom-40 w-56 outline outline-offset-2 outline-white outline-2 focus:ring-4 bg-white h-[5rem] rounded-lg mt-7 font-bold text-[2.5rem] text-[#4E0167] transform active:scale-90 transition-transform font-[/]"
             routerLink="/welcome" (click)="homePage()">Home
         </button> -->
+
 
 
 
