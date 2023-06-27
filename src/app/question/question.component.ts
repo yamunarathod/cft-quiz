@@ -81,7 +81,7 @@ export class QuestionComponent implements OnInit {
     this.isQuizCompleted = true;
     setTimeout(() => {
       this.router.navigate(['/']);
-    },15000)
+    },13000)
   }
   startCounter() {
     this.interval$ = interval(1000).subscribe((val) => {
