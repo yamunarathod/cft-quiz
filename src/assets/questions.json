@@ -2,7 +2,7 @@
     "questions": [{
             "questionText": " 1. When a manager appreciates strong communication skills of a team member and then begins to view the employee as being highly competent in all areas, even if there is no evidence to support the belief.  This is an example of: ",
             "options": [{
-                    "text": "Halo reflect  ",
+                    "text": " Halo Effect",
                     "correct": true
                 },
                 {
@@ -83,7 +83,7 @@
                     "text": "Microadvantage"
                 },
                 {
-                    "text": " Halo Effect"
+                    "text": "Halo Effect"
                 },
                 {
                     "text": "Subscribe"
@@ -104,7 +104,7 @@
                     "text": "Marginalization"
                 },
                 {
-                    "text": "None"
+                    "text": "None Of The Above"
                    
                 }
             ],
@@ -142,7 +142,7 @@
                     "text": "Both A and B"
                 },
                 {
-                    "text": "None"
+                    "text": "None Of The Above"
                 }
             ],
             "explanation": "filter is a method used to conditionally create a new array"
