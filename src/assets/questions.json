@@ -86,7 +86,7 @@
                     "text": "Halo Effect"
                 },
                 {
-                    "text": "Subscribe"
+                    "text": "None"
                 }
             ],
             "explanation": "a constructor is used by a class to take in parameters"
@@ -104,7 +104,7 @@
                     "text": "Marginalization"
                 },
                 {
-                    "text": "None Of The Above"
+                    "text": "None of the above"
                    
                 }
             ],
@@ -116,14 +116,14 @@
                     "text": "Genetics and Inherited Traits"
                 },
                 {
-                    "text": "Cultural Upbringing and socialization",
+                    "text": "Cultural Upbringing and Socialization",
                     "correct": true
                 },
                 {
                     "text": "Educational Background"
                 },
                 {
-                    "text": "Personal Experiences and individual choices"
+                    "text": "Personal Experiences and Individual Choices"
                 }
             ],
             "explanation": "the export keyword allows for the information to be transmitted between files"
@@ -142,7 +142,7 @@
                     "text": "Both A and B"
                 },
                 {
-                    "text": "None Of The Above"
+                    "text": "None of the above"
                 }
             ],
             "explanation": "filter is a method used to conditionally create a new array"
@@ -160,7 +160,7 @@
                     "text": "Positive Bias"
                 },
                 {
-                    "text": "None Of The Above"
+                    "text": "None of the above"
                 }
             ],
             "explanation": "this.propertyName is the way to access a specific property within a class"
